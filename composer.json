@@ -1,0 +1,11 @@
+{
+    "name": "DEERTechnology/mautic-round-robin",
+    "description": "Mautic Round Robin Owners plugin",
+    "type": "library",
+    "autoload": {
+      "psr-4": {
+        "MauticPlugin\\MauticRoundRobinBundle\\": ""
+      }
+    }
+  }
+  
